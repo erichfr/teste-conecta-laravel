@@ -1,4 +1,4 @@
-# Teste Conecta - API RESTful com Laravel 10
+# Teste Conecta Lá
 
 Este projeto é uma API RESTful desenvolvida em **Laravel 10** como parte do processo seletivo para empresa Conecta Lá. A API permite **criar, listar, atualizar e deletar usuários**, utilizando **MySQL** como banco de dados.
 
